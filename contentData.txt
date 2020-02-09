@@ -1,0 +1,47 @@
+Chapter 1 Review 1
+1.1 Runtime Complexity 1 
+1.2 Lower Bound for Sorting 3 
+1.3 Trees and Graphs 4
+Chapter 2 Amortized Analysis 15
+2.1 Unbounded Array 15
+2.2 Binary Counter 18
+2.3 Amortized Dictionary 19
+2.4 Amortized Trees 20
+Chapter 3 Heaps 25
+3.1 Binary Heaps 25
+3.2 Binomial Heaps 33
+3.3 Fibonacci Heaps 40
+Chapter 4 Greedy Algorithms 45
+4.1 The Money Changing Problem 46 
+4.2 Scheduling Problem 47 
+4.3 Huffman Code 49 
+4.4 Minimum Spanning Trees 56 
+4.5 Shortest Path Problem 62
+Chapter 5 Divide-and-conquer Algorithms 69
+5.1 Solving Divide-and-conquer Recurrences 71
+5.2 Integer Multiplication 76
+5.3 Matrix Multiplication 78
+5.4 The Maximum Subsequence Sum Problem 80
+5.5 Computing Fibonacci Numbers 81
+Chapter 6 Dynamic Programming 87
+6.1 Introduction 87
+6.2 Knapsack Problem 89
+6.3 Static Optimal Binary Search Tree 94
+6.4 The Bellman-ford Algorithm 98 
+6.5 The Shortest Path in DAGS 101
+Chapter 7 Network Flow 107
+7.1 Introduction 107
+7.2 The Ford-fulkerson Algorithm 110 
+7.3 Reduction to Network Flow 116
+7.4 Augmenting Path Heuristics 120 
+7.5 The Circulation Problem 123 
+7.6 Reduction to Circulation 130
+Chapter 8 Linear Programming 137
+8.1 Introduction: A Production Problem 137 
+8.2 The Standard Maximum Problem 141
+8.3 Afew Applications 144
+8.4 The Dual Linear Program 148
+Chapter 9 NP Completeness 157
+9.1 A Brief Introduction to the Turing Machines 157 
+9.2 Computational Intractability 159 
+9.3 Np-complete Problems 163
