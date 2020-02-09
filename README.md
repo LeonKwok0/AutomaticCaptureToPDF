@@ -10,5 +10,6 @@ This program  can be used to capture  the picture from some PDF readers and  com
 - run captureFile.py to get the pics 
   - rembmer u need to click the pdf when our program tell u at the very first (u only do this once and dont click at the rest progress)
 - run combinePDF.py to get the pdf
+- run addContent.py to add contents for your PDF
 
 ##### Enjoy ur new pdf 
